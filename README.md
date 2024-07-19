@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,nextjs,)](https://skillicons.dev)
